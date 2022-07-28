@@ -1,0 +1,6 @@
+simpletransformers==0.63.6
+transformers==4.17.0
+pandas
+spacy
+torch==1.10.2
+sentencepiece
